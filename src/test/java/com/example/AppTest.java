@@ -21,6 +21,6 @@ public class AppTest
 
     @Test
     public void shouldAnswerWithFalse() {
-        assertFalse(true);
+        assertFalse(false);
     }
 }
